@@ -1,0 +1,11 @@
+APScheduler
+Flask
+Flask-APScheduler
+Flask-RESTful
+Flask-SQLAlchemy
+gunicorn
+pycryptodome
+pytest
+pytest-flask
+pytest-mock
+requests
